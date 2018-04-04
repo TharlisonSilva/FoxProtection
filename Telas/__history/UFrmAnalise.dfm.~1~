@@ -1,0 +1,5 @@
+inherited FrmModelo1: TFrmModelo1
+  Caption = 'FrmModelo1'
+  PixelsPerInch = 96
+  TextHeight = 13
+end

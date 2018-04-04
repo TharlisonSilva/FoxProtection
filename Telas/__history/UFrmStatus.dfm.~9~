@@ -1,0 +1,5 @@
+inherited FrmStatus: TFrmStatus
+  Caption = 'FrmStatus'
+  PixelsPerInch = 96
+  TextHeight = 13
+end
